@@ -4477,3 +4477,11 @@ img {
 .price-list li:last-child {
   border-bottom: none;
 }
+
+#services {
+  scroll-margin-top: 120px;
+}
+
+#how {
+  scroll-margin-top: -75px;
+}
